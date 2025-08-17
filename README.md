@@ -1,5 +1,5 @@
 # DYAS-GoF-Patterns-Creational-PizzaFactory
 
-### Trabajo junto con Juan Pablo Parrado
+### Trabajado junto con Juan Pablo Parrado
 
 ![Diagrama UML](/pizza_factory.png)
